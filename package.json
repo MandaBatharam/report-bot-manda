@@ -1,0 +1,20 @@
+{
+  "name": "Mandaz report",
+  "version": "1.2.5",
+  "description": "To rekt hookers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manda",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "discord.io": "^2.5.3",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.0.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0",
+    "ms": "^2.1.1"
+  }
+}
